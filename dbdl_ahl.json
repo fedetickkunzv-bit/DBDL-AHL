@@ -1,6 +1,6 @@
 {
 	"Name": "DBDL AHL",
-	"Version": 1791427346,
+	"Version": 1791860077,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Cross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE",
 	"Tiers": [
@@ -16,6 +16,7 @@
 				"7",
 				"258",
 				"11",
+				"12",
 				"13",
 				"16",
 				"17",
@@ -35,7 +36,6 @@
 				"286",
 				"288",
 				"312",
-				"33",
 				"34",
 				"38",
 				"39",
@@ -104,6 +104,7 @@
 				"128",
 				"254",
 				"36",
+				"129",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -140,6 +141,7 @@
 				"185",
 				"186",
 				"265",
+				"194",
 				"256",
 				"195",
 				"198",
@@ -228,7 +230,6 @@
 				"8",
 				"9",
 				"24",
-				"27",
 				"273",
 				"41",
 				"43",
@@ -264,7 +265,6 @@
 				"9",
 				"24",
 				"246",
-				"27",
 				"273",
 				"40",
 				"41",
@@ -277,7 +277,6 @@
 				"308",
 				"50",
 				"319",
-				"53",
 				"54",
 				"56",
 				"57",
@@ -983,7 +982,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"157",
+					"317"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"112"
 			],
