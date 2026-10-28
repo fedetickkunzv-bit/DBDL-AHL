@@ -1,6 +1,6 @@
 {
 	"Name": "DBDL AHL",
-	"Version": 1792077656,
+	"Version": 1793202735,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Cross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE",
 	"Tiers": [
@@ -16,7 +16,6 @@
 				"7",
 				"258",
 				"11",
-				"12",
 				"13",
 				"16",
 				"17",
@@ -36,6 +35,7 @@
 				"286",
 				"288",
 				"312",
+				"33",
 				"34",
 				"38",
 				"39",
